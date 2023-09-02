@@ -1,0 +1,4 @@
+module Main // module name must be uppercase
+
+// main.gr
+print("Hello, world!")
